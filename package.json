@@ -1,0 +1,29 @@
+{
+  "name": "banner-watcher",
+  "version": "0.0.1",
+  "description": "Strips sandbox blocks out of HTML, like those created by Google Web Designer.",
+  "keywords": [
+    "google web designer",
+    "banner"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/FusionAlliance/banner-watcher",
+  "author": "David Ragsdale <dragsdale@fusionalliance.com>",
+  "bugs": {
+    "url": "https://github.com/FusionAlliance/banner-watcher/issues"
+  },
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "fs": "0.0.1-security",
+    "md5-file": "^3.1.1",
+    "path": "^0.12.7",
+    "commander": "^2.9.0"
+  },
+  "main": "src/index.js",
+  "bin": {
+    "banner-watcher": "bin/index.js"
+  },
+  "engines": {
+    "node": "7.10.0"
+  }
+}
