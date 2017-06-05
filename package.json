@@ -1,6 +1,6 @@
 {
   "name": "banner-watcher",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Strips sandbox blocks out of HTML, like those created by Google Web Designer.",
   "keywords": [
     "google web designer",
@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "repository": "https://github.com/FusionAlliance/banner-watcher",
-  "author": "David Ragsdale <dragsdale@fusionalliance.com>",
+  "author": "David Ragsdale <me@davidjragsdale.com>",
   "bugs": {
     "url": "https://github.com/FusionAlliance/banner-watcher/issues"
   },
